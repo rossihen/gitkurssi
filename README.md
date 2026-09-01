@@ -1,0 +1,2 @@
+# gitkurssi
+Gitin opettelua 
